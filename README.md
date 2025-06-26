@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 أهلاً! أنا محمد وحيد
 
-<!--
-**mohamedwah77ed/mohamedwah77ed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Backend Software Developer  
+🔥 متخصص في Laravel  
+💡 شغوف بتطوير حلول برمجية نظيفة وقابلة للتوسع  
+📚 أتعلم باستمرار وأسعى لتحسين نفسي ومساعدة غيري
 
-Here are some ideas to get you started:
+## 🛠️ المهارات:
+- PHP / Laravel
+- MySQL / PostgreSQL
+- REST APIs
+- Git & GitHub
+- Linux / Ubuntu
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 تواصل معايا:
+- Email: your.email@example.com
+- LinkedIn: [لينكدإن بتاعك](https://linkedin.com/in/your-profile)
