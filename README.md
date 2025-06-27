@@ -40,7 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
   <img width="5" />
  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="25" alt="pandas logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" height="25" alt="pandas logo"  />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="25" alt="opencv logo"  />
   <img width="5" />
