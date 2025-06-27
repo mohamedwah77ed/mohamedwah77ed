@@ -1,12 +1,8 @@
-<div align="center">
-  <blockquote>
-    <h2><strong>The best fighter is NEVER angry </strong></h2>               
-  </blockquote>
-</div>
+
 
 <div align="center">
   <img 
-    src="https://i0.wp.com/winzons.com/wp-content/uploads/2024/06/Backend-Engineer-1.jpg?resize=768%2C474&ssl=1" 
+    src="[https://i0.wp.com/winzons.com/wp-content/uploads/2024/06/Backend-Engineer-1.jpg?resize=768%2C474&ssl=1](https://media.geeksforgeeks.org/wp-content/uploads/20240701150157/Backend-Development.webp)" 
     alt="Banner" 
     style="width: 100%; max-width: 1000px; height: auto;" /> 
 </div>
